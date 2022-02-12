@@ -1,0 +1,42 @@
+----
+ID: 7
+Title: Koji programski jezik odabrati?
+Datum: 17. Februar 2022.
+Slika: img/question.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 6
+Title: Youtube besplatni kursevi
+Datum: 15. Decembar 2021.
+Slika: img/dodela-sertifikata.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 5
+Title: Timsi rad motiviše
+Datum: 21. maj 2021.
+Slika: img/codewomen.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 4
+Title: Dosta pomoćnih stranica i alata
+Datum: 12. januar 2021.
+Slika: img/developerstools.jpeg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 3
+Title: Kako do posla?
+Datum: 3. oktobar 2020.
+Slika: img/codeman.jpg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 2
+Title: Koju bazu podataka koristiti?
+Datum: 25. avgust 2020.
+Slika: img/learntocode.jpeg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
+----
+ID: 1
+Title: Kako da najbolje popunim CV profil?
+Datum: 18. jul 2020.
+Slika: img/project.jpeg
+Tekst:Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut non massa maximus, tincidunt felis imperdiet, sollicitudin felis. Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut non ex Mauris neque nunc, vulputate in aliquam eget, <a href="#">vehicula et nibh</a>. Mauris non erat et odio consectetur ornare. Nullam vehicula tempus imperdiet. Curabitur non massa quis ligula sollicitudin venenatis ut
